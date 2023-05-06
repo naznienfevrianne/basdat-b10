@@ -41,6 +41,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'example_app',
     'authentication',
+    'dashboard',
+    'manageteam', 
+    'peminjamanstadium'
     'list_pertandingan',
     'rapat'
 ]
