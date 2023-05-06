@@ -44,6 +44,8 @@ INSTALLED_APPS = [
     'dashboard',
     'manageteam', 
     'peminjamanstadium'
+    'list_pertandingan',
+    'rapat'
 ]
 
 MIDDLEWARE = [
