@@ -43,7 +43,8 @@ INSTALLED_APPS = [
     'authentication',
     'dashboard',
     'manageteam', 
-    'peminjamanstadium'
+    'peminjamanstadium',
+    'managepertandingan'
 ]
 
 MIDDLEWARE = [
