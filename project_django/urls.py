@@ -22,7 +22,16 @@ urlpatterns = [
     path('authentication/', include('authentication.urls')),
     path('dashboard/', include('dashboard.urls')),
     path('manageteam/', include('manageteam.urls')),
+<<<<<<< HEAD
+<<<<<<< HEAD
     path('peminjamanstadium/', include('peminjamanstadium.urls')),
+    path('managepertandingan/', include('managepertandingan.urls'))
+=======
+    path('peminjamanstadium/', include('peminjamanstadium.urls'))
+=======
+    path('peminjamanstadium/', include('peminjamanstadium.urls')),
+>>>>>>> 5edb2f40d9a7cdb72065bd8d7de86d7c6a4f290b
     path('list_pertandingan/', include('list_pertandingan.urls')),
     path('rapat/', include('rapat.urls'))
+>>>>>>> 3599babf77ffed42b11e7ef96edc65b7b2078d8a
 ]

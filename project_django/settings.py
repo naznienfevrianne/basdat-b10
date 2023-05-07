@@ -43,9 +43,18 @@ INSTALLED_APPS = [
     'authentication',
     'dashboard',
     'manageteam', 
+<<<<<<< HEAD
+<<<<<<< HEAD
     'peminjamanstadium',
+    'managepertandingan'
+=======
+    'peminjamanstadium'
+=======
+    'peminjamanstadium',
+>>>>>>> 5edb2f40d9a7cdb72065bd8d7de86d7c6a4f290b
     'list_pertandingan',
     'rapat'
+>>>>>>> 3599babf77ffed42b11e7ef96edc65b7b2078d8a
 ]
 
 MIDDLEWARE = [
